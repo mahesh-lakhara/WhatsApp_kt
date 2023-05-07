@@ -28,12 +28,13 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Android user"
+            android:text="Today,13:50"
             android:layout_marginTop="@dimen/_3sdp"
             android:textColor="#817373"
             android:textSize="@dimen/_11sdp"/>
 
     </LinearLayout>
+
 
 
 </LinearLayout>

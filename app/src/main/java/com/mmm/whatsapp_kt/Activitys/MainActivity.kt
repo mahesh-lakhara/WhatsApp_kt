@@ -12,7 +12,7 @@ import com.mmm.whatsapp_kt.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
     lateinit var binding: ActivityMainBinding
 
-    var item = arrayOf("Calls", "Status", "Calls")
+    var item = arrayOf("Chats", "Status", "Calls")
     var fragments = arrayOf(ChatsFragment(), StatusFragment(), CallFragment())
 
     override fun onCreate(savedInstanceState: Bundle?) {

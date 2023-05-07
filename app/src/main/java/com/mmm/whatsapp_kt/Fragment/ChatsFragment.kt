@@ -27,8 +27,8 @@ class ChatsFragment : Fragment() {
         binding = FragmentChatsBinding.inflate(layoutInflater)
 
 
-        for (x in 0..image.size-1) {
-            var data = ProfileModel(image[x], name[x])
+        for (i in 0..image.size-1) {
+            var data = ProfileModel(image[i], name[i])
             dataList.add(data)
         }
 

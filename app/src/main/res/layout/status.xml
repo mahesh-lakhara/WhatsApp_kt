@@ -28,7 +28,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Android user"
+            android:text="5 min"
             android:layout_marginTop="@dimen/_3sdp"
             android:textColor="#817373"
             android:textSize="@dimen/_11sdp"/>
